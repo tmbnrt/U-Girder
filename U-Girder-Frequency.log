@@ -1,0 +1,13 @@
+Abaqus JOB U-Girder-Frequency
+Abaqus Student Edition 6.14-2
+Begin Analysis Input File Processor
+16.02.2017 11:47:49
+Run pre.exe
+16.02.2017 11:47:52
+End Analysis Input File Processor
+Begin Abaqus/Standard Analysis
+16.02.2017 11:47:52
+Run standard.exe
+16.02.2017 11:48:00
+End Abaqus/Standard Analysis
+Abaqus JOB U-Girder-Frequency COMPLETED

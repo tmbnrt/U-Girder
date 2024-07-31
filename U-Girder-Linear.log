@@ -1,0 +1,13 @@
+Abaqus JOB U-Girder-Linear
+Abaqus Student Edition 6.14-2
+Begin Analysis Input File Processor
+03.03.2017 17:46:08
+Run pre.exe
+03.03.2017 17:46:10
+End Analysis Input File Processor
+Begin Abaqus/Standard Analysis
+03.03.2017 17:46:10
+Run standard.exe
+03.03.2017 17:46:13
+End Abaqus/Standard Analysis
+Abaqus JOB U-Girder-Linear COMPLETED
